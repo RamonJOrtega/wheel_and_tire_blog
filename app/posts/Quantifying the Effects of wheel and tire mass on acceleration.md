@@ -1,4 +1,9 @@
-Quantifying the Effects of Wheel and Tire Mass on Acceleration
+---
+title: Quantifying the Effects of Wheel and Tire Mass on Acceleration
+subtitle: Need for speed
+date: "2023-05-01"
+---
+# Quantifying the Effects of Wheel and Tire Mass on Acceleration
 When it comes to improving a vehicle's acceleration, reducing its overall mass is often the first step that comes to mind. However, it's not just the total weight of the car that affects acceleration, but also the weight and mass distribution of individual components, such as the wheels and tires.
 
 In order to quantify the effects of wheel and tire mass on acceleration, we need to understand some basic physics concepts. According to Newton's second law of motion, the force (F) acting on an object is equal to its mass (m) times its acceleration (a): F = ma. This means that if we want to increase acceleration, we either need to increase the force or decrease the mass.

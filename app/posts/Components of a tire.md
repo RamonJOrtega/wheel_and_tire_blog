@@ -1,3 +1,9 @@
+---
+title: Components of a Tire
+subtitle: More than meets the eye
+date: "2023-05-01"
+---
+
 # Components of a Tire
 
 Tires are the most important component of a vehicle that provide the necessary traction and grip on the road surface. They are made up of various components that work together to ensure a smooth and safe ride. In this article, we will discuss the various components of a tire.

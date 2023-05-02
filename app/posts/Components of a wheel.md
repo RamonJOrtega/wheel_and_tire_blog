@@ -1,3 +1,8 @@
+---
+title: Components of a Wheel
+subtitle: Complexity in simplicity
+date: "2023-05-01"
+---
 # Components of a Wheel
 
 A wheel is an important part of any vehicle. It is responsible for supporting the weight of the vehicle and providing a smooth ride. There are several components of a wheel that work together to perform this function.
