@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 const getPostMetadata = () => {
   const path = require('path')
-  const dirPath = path.resolve(__dirname, './posts')
+  const dirPath = path.resolve(__dirname, 'posts')
   const files = fs.readdirSync(dirPath)
   const markdownPosts = files.filter((file) => file.endsWith(".md"))
   const slugs = markdownPosts.map((file) => file.replace(".md", ""))
